@@ -41,6 +41,7 @@ li a {
     flex-direction: column;
 }
 
+/* Hero */
 .hero {
     display: flex;
     gap: 32px;
@@ -70,6 +71,15 @@ li a {
     font-weight: 600;
 }
 
+/* Section Two */
+.section-two {
+    display: flex;
+    flex-direction: column;
+}
+
+.image-slide {
+    display: flex;
+}
 
 
 /* Footer */
