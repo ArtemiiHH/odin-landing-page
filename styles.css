@@ -161,7 +161,7 @@ li a {
 .box {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
     background-color: #3882f6;
     color: white;
     border-radius: 10px;
